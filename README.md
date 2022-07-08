@@ -1,4 +1,4 @@
-# 4G_IoT_Device_Configuration
+# 4G IoT Device Configuration
 4G IoT Device Configuration Software written in VB
 
 
