@@ -2,7 +2,7 @@
 4G IoT Device Configuration Software written in VB
 
 
-![4G_Module](https://github.com/hilo-curado1987/4G_IoT_Device_Configuration/blob/master/4G.png)
+![4G_Module](https://github.com/hilo-curado1987/4G-IoT-Device/raw/master/4G.png)
 
 
 
