@@ -21,3 +21,12 @@
 | Position Accuracy | <2 meter | 
 | Velocity Accuracy | <0.1m/s |
 
+
+
+### Cellular 
+
+| Technology | GSM /2GPP | 
+| --- | --- |
+| 4G Band | 900,1800 |  
+| Data Transfer | GPRS:114 Kbps (0.1 Mbps) / EDGE:237 Kbps (0.2 Mbps) | 
+
